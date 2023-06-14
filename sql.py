@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import requests
 import re
 a = input("Target: ")
